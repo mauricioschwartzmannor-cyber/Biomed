@@ -1,0 +1,6 @@
+{
+  "name": "Anatomia 360",
+  "description": "Plataforma educacional em Biomedicina e Ciências da Saúde com Atlas Anatômico 3D interativo, cursos, simulados e Tutor IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
